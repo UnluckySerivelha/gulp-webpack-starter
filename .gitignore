@@ -1,0 +1,6 @@
+.git/
+.idea/
+node_modules/
+dev/
+build/
+package-lock.json
